@@ -1,2 +1,1 @@
-# QA-Automation-Testing-Demo
-GitBashRepository
+# GitBashRepository
